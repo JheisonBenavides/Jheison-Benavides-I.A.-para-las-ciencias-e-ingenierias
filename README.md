@@ -1,6 +1,6 @@
-#Proyecto : Modelos de aprendizaje automático que utilicen datos de emisiones de fuente abierta (de observaciones del satélite Sentinel-5P ) para predecir las emisiones de carbono.
+# Proyecto : Modelos de aprendizaje automático que utilicen datos de emisiones de fuente abierta (de observaciones del satélite Sentinel-5P ) para predecir las emisiones de carbono.
 
-##Miembros del grupo : 
+## Miembros del grupo
 
 Edwin David Duque Grajales cc. 1017255650 Ingenieria Ambiental
 
