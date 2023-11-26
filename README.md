@@ -24,3 +24,4 @@ En cada uno de los notebooks hay un titulo de 'cargar los archivos desde Kaggle'
 
 ## Videos
 [Video segunda entrega](https://www.youtube.com/watch?v=YJWShZmztU4)
+[Video entrega final](https://www.youtube.com/watch?v=YJWShZmztU4)
